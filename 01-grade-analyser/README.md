@@ -11,4 +11,5 @@ __To build a grade analyser program.__
 
 ### Prerequisites:
 * Python
+* Jupyter Notebook
 * Git and GitHub
